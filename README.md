@@ -52,7 +52,7 @@ plt.show
 
 
 
-![png](output_7_1.png)
+![png](/img/output_7_1.png)
 
 
 ## Building Keras Model Class
@@ -146,5 +146,5 @@ make_prediction(test_images, test_labels, num)
     
 
 
-![png](output_15_2.png)
+![png](/img/output_15_2.png)
 
